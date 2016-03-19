@@ -21,6 +21,9 @@
 
 <header>
 <h1>Combat Mission - PMC Tactical</h1>
+</header>
+
+<section>
 <p>Welcome to Combat Mission - PMC Tactical.
 </p>
 
@@ -36,12 +39,9 @@
 <p><a href="shock-force.php">Shock Force</a>
 </p>
 
-</header>
+<p><a href="history.php">History of releases</a>
+</p>
 
-<section>
-<!--
-<a href="arma/index.php">Armed Assault (ArmA)</a><br><br>
--->
 </section>
 
 <footer>
