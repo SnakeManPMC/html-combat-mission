@@ -1,0 +1,3 @@
+user-agent: *
+Disallow: 
+Sitemap: http://tactical.nekromantix.com/combat-mission/sitemap.xml
