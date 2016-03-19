@@ -42,7 +42,7 @@
 <p><a href="history.php">History of releases</a>
 </p>
 
-<p><a href="scenario-editing.php">Scenario Editing</a>
+<p><a href="scenario-editing.php">Scenario Editing</a> and <a href="scenario-design.php">Scenario Design</a>
 </p>
 
 </section>
