@@ -42,6 +42,9 @@
 <p><a href="history.php">History of releases</a>
 </p>
 
+<p><a href="scenario-editing.php">Scenario Editing</a>
+</p>
+
 </section>
 
 <footer>
