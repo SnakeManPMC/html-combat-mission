@@ -40,6 +40,9 @@
 <p><a href="scenario-editing.php">Scenario Editing</a> and <a href="scenario-design.php">Scenario Design</a>
 </p>
 
+<p><a href="scenario-testing-report-template.php">Scenario Testing Report Template</a>
+</p>
+
 </section>
 
 <footer>
