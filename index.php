@@ -8,24 +8,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--
-<?php include("include/google-analytics.php"); ?>
--->
+<?php include("../include/google-analytics.php"); ?>
 
 </head>
 <body>
 
-<!--
-<?php include("include/google-ads.php"); ?>
--->
-
 <header>
+<?php include("../include/google-ads.php"); ?>
+<?php include("../include/paypal.php"); ?>
 <h1>Combat Mission - PMC Tactical</h1>
 </header>
 
 <section>
-<p>Welcome to Combat Mission - PMC Tactical.
-</p>
+<h2>Welcome to Combat Mission - PMC Tactical</h2>
 
 <p><a href="afghanistan.php">Afghanistan</a>
 </p>
@@ -48,7 +43,9 @@
 </section>
 
 <footer>
+<?php include("../include/paypal.php"); ?>
 <p><i>Combat Mission - PMC Tactical 2016 - <?print(date("Y"));?>.</i></p>
+<?php include("../include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
