@@ -40,7 +40,8 @@ CM: Red Thunder Apr 4th, 2014.<br>
 CMBN: Vehicle Pack Oct 24th, 2014.<br>
 CM: Black Sea Nov 4th, 2014.<br>
 CM: v3.0 game engine upgrade 2015.<br>
-CMBN: Battle Pack (v3.12 upgrade) Feb 29th, 2016.
+CMBN: Battle Pack (v3.12 upgrade) Feb 29th, 2016.<br>
+CM: Final Blitzkrieg Friday. Apr 8th, 2016.
 </p>
 
 </section>
