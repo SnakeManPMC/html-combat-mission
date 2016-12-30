@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Tactical Combat Mission History of Releases</b></h1>
 </header>
 
@@ -48,7 +47,6 @@ CM: Final Blitzkrieg Friday. Apr 8th, 2016.
 
 <footer>
 <p>Back to <a href="index.php">Combat Mission root page</a></p>
-<?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>PMC Combat Mission 2016 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1><b>PMC Tactical Combat Mission Scenario Editing</b></h1>
 </header>
 
@@ -367,7 +366,6 @@ Battle #2
 
 <footer>
 <p>Back to <a href="index.php">Combat Mission root page</a></p>
-<?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>PMC Combat Mission 2016 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

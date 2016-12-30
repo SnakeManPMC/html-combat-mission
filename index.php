@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1>Combat Mission - PMC Tactical</h1>
 </header>
 
@@ -46,7 +45,6 @@
 </section>
 
 <footer>
-<?php include("../include/paypal.php"); ?>
 <p><i>Combat Mission - PMC Tactical 2016 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>
