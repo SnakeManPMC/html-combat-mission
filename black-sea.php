@@ -20,7 +20,29 @@
 
 <section>
 <h2>Black Sea</h2>
-<p>
+<p>Battlefront in their wisdom (sigh) decided to put user made campaign, scenario, terrain and save game files into windows "My Documents" directory :(
+<br><br>
+This came in effect one game release before Black Sea (one of those useless ww2 crap ones, red thunder or maybe fortress italy I think).
+</p>
+
+<p>So now you must put your file into this stupid directory. On windows 7 64bit its:
+<pre>C:\Users\YOURNAME\Documents\Battlefront\Combat Mission\Black Sea\Game Files\
+</pre>
+even though the explorer link says "My Documents". This is the game files root directory under which all the other directories are placed like play by email, save games etc.
+</p>
+
+<p>Place <b>Scenarios</b> into "C:\Users\YOURNAME\Documents\Battlefront\Combat Mission\Black Sea\Game Files\Scenarios\" directory.
+</p>
+
+<p>Place <b>Campaigns</b> into "C:\Users\YOURNAME\Documents\Battlefront\Combat Mission\Black Sea\Game Files\Campaigns\" directory.
+</p>
+
+<p>Place <b>Terrains</b> and/or <b>Quick Battle Maps</b> into "C:\Users\YOURNAME\Documents\Battlefront\Combat Mission\Black Sea\Game Files\Quick Battle Maps\" directory.
+</p>
+
+<p>If you are using dos batch files to handle file copying, backupping, archive unpacking or anything like that into the above directories, you must use quotes around the directory path because the directory has spaces in it (double sigh). For example:
+<pre>7z a MyBackups.7z "C:\Users\YOURNAME\Documents\Battlefront\Combat Mission\Black Sea\Game Files\Saved Games\"
+</pre>
 </p>
 
 </section>
