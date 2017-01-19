@@ -2,4 +2,4 @@
 
 Combat Mission tactical war game website
 
-[PMC Combat Mission](http://tactical.nekromantix.com/combat-mission/index.php)
+[PMC Combat Mission](http://www.pmctactical.org/combat-mission/index.php)
