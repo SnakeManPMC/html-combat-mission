@@ -22,7 +22,7 @@
 <h2>Black Sea</h2>
 <p>Battlefront in their wisdom (sigh) decided to put user made campaign, scenario, terrain and save game files into windows "My Documents" directory :(
 <br><br>
-This came in effect one game release before Black Sea (one of those useless ww2 crap ones, red thunder or maybe fortress italy I think).
+This came in effect one game release before Black Sea (one of those useless ww2 crap ones, fortress italy I believe).
 </p>
 
 <p>So now you must put your file into this stupid directory. On windows 7 64bit its:
