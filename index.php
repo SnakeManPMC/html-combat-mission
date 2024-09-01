@@ -4,7 +4,6 @@
 <title>Combat Mission - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="Combat Mission - PMC Tactical">
-<META name="keywords" content="Combat, Mission, PMC, Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,12 +13,15 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
-<h1>Combat Mission - PMC Tactical</h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1>Combat Mission - PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Welcome to Combat Mission - PMC Tactical</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Welcome to Combat Mission - PMC Tactical</h2>
 
 <p><a href="afghanistan.php">Afghanistan</a>
 </p>
@@ -42,11 +44,15 @@
 <p><a href="scenario-testing-report-template.php">Scenario Testing Report Template</a>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><i>Combat Mission - PMC Tactical 2016 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

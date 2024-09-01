@@ -4,7 +4,6 @@
 <title>Combat Mission Scenario Testing Report Template - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="Combat Mission Scenario Testing Report Template - PMC Tactical">
-<META name="keywords" content="Combat, Mission, Scenario, Testing, Report, Template, PMC, Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,12 +13,16 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Combat Mission Scenario Testing Report Template</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1>PMC Tactical Combat Mission Scenario Testing Report Template</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Scenario Testing Report Template</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Scenario Testing Report Template</h2>
+
 <p>Scenario and Campaign testing, well, mostly scenario testing heh.
 </p>
 
@@ -45,13 +48,17 @@ Was the scenario difficult?<br>
 Time to complete (turns/minutes)?
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Combat Mission root page</a></p>
 <br><br>
 <p><i>PMC Combat Mission 2016 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -4,7 +4,6 @@
 <title>Combat Mission: Black Sea - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="Combat Mission: Black Sea - PMC Tactical">
-<META name="keywords" content="Combat, Mission, Black, Sea, PMC, Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,12 +13,16 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Combat Mission: Black Sea</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1>PMC Tactical Combat Mission: Black Sea</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-<h2>Black Sea</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+	<h2>Black Sea</h2>
+
 <p>Battlefront in their wisdom (sigh) decided to put user made campaign, scenario, terrain and save game files into windows "My Documents" directory :(
 <br><br>
 This came in effect one game release before Black Sea (one of those useless ww2 crap ones, fortress italy I believe).
@@ -45,13 +48,17 @@ even though the explorer link says "My Documents". This is the game files root d
 </pre>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Combat Mission root page</a></p>
 <br><br>
 <p><i>PMC Combat Mission 2016 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
