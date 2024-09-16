@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -49,6 +49,7 @@
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
+<p>Back to <a href="https://www.pmctactical.org">PMC Tactical</a>.</p>
 <p><i>Combat Mission - PMC Tactical 2016 - <?print(date("Y"));?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>
 <?php include("/var/www/include/support.php"); ?>

@@ -6,33 +6,33 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/</loc>
+  <loc>https://combat-mission.pmctactical.org/</loc>
 </url>
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/index.php</loc>
+  <loc>https://combat-mission.pmctactical.org/index.php</loc>
 </url>
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/afghanistan.php</loc>
+  <loc>https://combat-mission.pmctactical.org/afghanistan.php</loc>
 </url>
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/battle-for-normandy.php</loc>
+  <loc>https://combat-mission.pmctactical.org/battle-for-normandy.php</loc>
 </url>
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/black-sea.php</loc>
+  <loc>https://combat-mission.pmctactical.org/black-sea.php</loc>
 </url>
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/shock-force.php</loc>
+  <loc>https://combat-mission.pmctactical.org/shock-force.php</loc>
 </url>
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/history.php</loc>
+  <loc>https://combat-mission.pmctactical.org/history.php</loc>
 </url>
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/scenario-editing.php</loc>
+  <loc>https://combat-mission.pmctactical.org/scenario-editing.php</loc>
 </url>
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/scenario-design.php</loc>
+  <loc>https://combat-mission.pmctactical.org/scenario-design.php</loc>
 </url>
 <url>
-  <loc>http://www.pmctactical.org/combat-mission/scenario-testing-report-template.php</loc>
+  <loc>https://combat-mission.pmctactical.org/scenario-testing-report-template.php</loc>
 </url>
 </urlset>
